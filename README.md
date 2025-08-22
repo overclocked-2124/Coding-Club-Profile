@@ -17,7 +17,6 @@
 
 The Coding Club at RVCE fosters a vibrant coding culture, encouraging students to Create, Build, and Innovate. We host workshops, competitions, and hands‑on projects across Web Development, AI/ML, Blockchain, Competitive Programming, and Cyber Security—empowering students through collaboration, learning, and technical excellence.
 
-- 🌐 Website: <https://codingclubrvce.vercel.app>
 - ✉️ Email: <codingclub@rvce.edu.in>
 - 🐙 GitHub Org: <https://github.com/codingclubrvce>
 - 📍 RV College of Engineering, Bengaluru, Karnataka, India
